@@ -1,4 +1,4 @@
-[more infor here](github.com/NalinDalal/exchange-ts)
+[more infor here](https://github.com/NalinDalal/exchange-ts)
 
 ```mermaid
 flowchart TD
